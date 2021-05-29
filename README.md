@@ -1,17 +1,17 @@
 # OpenSource-uTube
 ### YouTube, but it's open source, and Google monetisation free
+**this version is in ruski**
 
 
 ## How it works:
 
-- Upload your video to our site.
-- It gets compressed af, then stored on our servers.
-- Whenever someone wants to watch that video, it gets decompressed live, so as you watch it, it comes clear. (this may cause issues, such as excessive buffering, but [V1RU5](https://github.com/jodri-code) couldn't figure any other way)
-- Anyone who know how to fix pls do
+- Open the site
+- The site masks YouTube's site.
+- Whenever someone wants to watch an video, it gets live feedback from YouTube's servers, and this is how I setup. (this may cause issues, such as excessive buffering, but I couldn't figure any other way)
 
 
-If you want to fork this repo, feel free, it's Open Source for a reason
+If you want to fork this repo, feel free, it's Open Source!
 
 ## Check out some other cool versions of OpenSource uTube:
-### Anyone who makes a fork can change or remove this section at will
+· [CKStudio's original project](https://github.com/CKStudios2018/Open-Source-uTube/)
 · [ByeMC's Fork](https://github.com/ByeMC/OpenSource-uTube/)
