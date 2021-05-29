@@ -13,5 +13,5 @@
 If you want to fork this repo, feel free, it's Open Source!
 
 ## Check out some other cool versions of OpenSource uTube:
-- [CKStudio's original project](https://github.com/CKStudios2018/Open-Source-uTube/)
+- [CKStudios' original project](https://github.com/CKStudios2018/Open-Source-uTube/)
 - [ByeMC's Fork](https://github.com/ByeMC/OpenSource-uTube/)
